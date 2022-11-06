@@ -22,7 +22,7 @@
 
  * Home Page with tasks
  
-![full home](https://user-images.githubusercontent.com/102539437/200133337-ea5983c3-5fca-49c0-96fd-7a3518ebcfa2.jpg)
+ ![full home](https://user-images.githubusercontent.com/102539437/200133337-ea5983c3-5fca-49c0-96fd-7a3518ebcfa2.jpg)
 
  * Edit Page
  ![edit check](https://user-images.githubusercontent.com/102539437/200133262-ba121fb2-2d77-4a4c-ba81-95830b426486.jpg)
